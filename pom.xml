@@ -12,4 +12,9 @@
   <description>
     An archetype which contains a sample J2EE 1.4 EJB Maven project.
   </description>
+  <scm>
+    <connection>scm:svn:http://svn.codehaus.org/mojo/trunk/mojo/mojo-archetypes/ejb-j2ee14</connection>
+    <developerConnection>scm:svn:https://svn.codehaus.org/mojo/trunk/mojo/mojo-archetypes/ejb-j2ee14</developerConnection>
+    <url>http://fisheye.codehaus.org/browse/mojo/trunk/mojo/mojo-archetypes/ejb-j2ee14</url>
+  </scm>
 </project>
